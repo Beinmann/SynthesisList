@@ -1,0 +1,143 @@
+dhoulmagus|alabast dragon|tyrannosaurus wrecks
+alabast dragon|drakulard|mechan-o-wyrm
+drakulard|belial|drakularge
+drakulard|drakularge|pazuzu
+drakulard|atlas|drakularge
+mechan-o-wyrm|Great Dragon|metal dragon
+mechan-o-wyrm|metal dragon|rashaverak
+Great Dragon|nodoph|rashaverak
+Great Dragon|wishmaster|rashaverak
+Great Dragon|rashaverak|tortoceratops
+Great Dragon|rashaverak|sintaur
+rashaverak|Aamon|Abyss Diver
+Aamon|demon king|Korol
+tortoceratops|Great Argon Lizard|Material Family
+demon king|boss troll|high djinks
+Korol|rashaverak|tortured soul
+Black dragon|Great Dragon|Bonebaron
+Black dragon|Gemon|Great Dragon
+Gemon|atlas|Jamirus
+Gemon|belial|Jamirus
+Gemon|pazuzu|Jamirus
+Jamirus|Grimkeeper|Gryphon
+Grimkeeper|Aggrosculpture|Erazorblade
+Grimkeeper|Aggrosculpture|Gryphon
+Grimkeeper|Aggrosculpture|Octaviansentry
+Grimkeeper|Aggrosculpture|Pricklyprankster
+Gryphon|Anchorman|Erazorblade
+Aggrosculpture|Aquestrian gladiator|Angel Slime
+Aggrosculpture|Argon lizard|Danglerfish
+Octaviansentry|Army ant|Greatdracky
+Greatdracky|Greatdracky Part 1|Greatdracky Part 2
+Greatdracky Part 1|Dracky|Dracky
+Greatdracky Part 2|Dracky|Dracky
+belial|Archdemon|Balhib
+belial|Archdemon|Great Dragon
+belial|Belial part 1|Belial part 1
+Belial part 1|Archdemon|Archdemon
+Archdemon|archdemon part|archdemon part
+archdemon part|Dessertdemon|Dessertdemon
+Balhib|balhib part 1|balhib part 2
+Balhib|balhib part 1|balhib part 1
+Balhib|balhib part 2|balhib part 2
+balhib part 1|Magmalice|Firnfiend
+balhib part 2|Golem|Goldgolem
+Archdemon|Aggrosculpture|dark slime
+dark slime|Aggrosculpture|Magicslime
+Magicslime|Angel Slime|Cyberslime
+Anchorman|Dingaling|demon family
+Dingaling|Chainine|Dancing Flame
+Erazorblade|Angel Slime|Octaviansentry
+Octaviansentry|Argon lizard|Greatdracky
+Octaviansentry|Aggrosculpture|Slime
+RigorMortex|Zenithdragon|Leonyx
+Leonyx|Leokid|Wildcard
+Zenithdragon|Dragonlord|Xenlon
+Xenlon|Dimensionaldragon|Greygnarl
+Xenlon|Prismpeacock|Greygnarl
+Xenlon|Yggdrasil|Greygnarl
+Prismpeacock|prism peacock 1|prism peacock 2
+prism peacock 2|Snowbird|Snowbird
+prism peacock 1|Firebird|Firebird
+Prismpeacock|Garuda|Pipit
+Garuda|Hadescondor|Heligator
+Greygnarl|Barbarus|Dragovianlord
+Dragovianlord|Dragonlord|Rhapthorne 2
+Rhapthorne 2|Estark|Rhapthorne
+Estark|Titanis|Xiphos
+Titanis|atlas|Moosifer
+Titanis|Moosifer|torai wanda
+torai wanda|Great Dragon|Octaviansentry
+torai wanda|Octaviansentry|rashaverak
+Rhapthorne|rhapthorne part 1|rhapthorne part 2
+rhapthorne part 1|Nimzo|Zoma
+rhapthorne part 2|Mortamor|Orgodemir
+Nimzo|Baramos|Khalamari
+Nimzo|Baramos|Gamadius
+Baramos|Beetleboy|tortoceratops
+Baramos|TimeSage|tortoceratops
+TimeSage|time sage 1|time sage 2
+time sage 1|Fallenpriest|Fallenpriest
+time sage 2|tortured soul|tortured soul
+Gamadius|demon king|GigaMute
+Zoma|Dullahan|Malroth
+Zoma|Malroth|Wightking
+Malroth|Demon at arms|Hargon
+Malroth|Hargon|Khalamari
+Hargon|Dhuran|Dierantula
+Hargon|Dhuran|Wightking
+Wightking|King bubble slime|tortured soul
+Wightking|Kingslime|tortured soul
+Mortamor|Psaro|ShieldOgr
+Mortamor|Psaro|TimeSage
+ShieldOgr|ClayNite|Scytheborg
+ShieldOgr|Livingstatue|Scytheborg
+ShieldOgr|Scytheborg|Trapbox
+Trapbox|trap box 1|trap box 2
+trap box 1|Mimic|Mimic
+trap box 2|Cannibox|Metal kaiser slime
+Metal kaiser slime|metal kaiser slime 1|metal kaiser slime 2
+metal kaiser slime 1|Metal slime knight|Metal slime knight
+metal kaiser slime 2|King cure slime|King cure slime
+Psaro|Blackmar|Ruin
+Blackmar|Aamon|Ladja
+Ladja|Kon|Slon
+Ruin|Goldgolem|Mumboh-jumboe
+Ruin|Goldgolem|StormsgateCitadel
+Ruin|Livingstatue|Mumboh-jumboe
+Ruin|Livingstatue|StormsgateCitadel
+Mumboh-jumboe|Mumboh|Jumboe
+Mumboh|Mum|Boh
+Jumboe|Jum|Boe
+Orgodemir|Bilhaw|tyrannosaurus wrecks
+Orgodemir|torai wanda|tyrannosaurus wrecks
+Bilhaw|Balhib|Beetleboy
+Bilhaw|Balhib|Black dragon
+Bilhaw|Balhib|Beetlebully
+Beetlebully|beetlebully 1|beetlebully 2
+beetlebully 1|Beetleboy|Beetleboy
+Beetlebully|beetlebully 1|beetlebully 1
+Beetlebully|Beetleboy|Metal King Slime
+Metal King Slime|metal king slime 1|metal king slime 1
+metal king slime 1|Liquid Metal Slime|Liquid Metal Slime
+Liquid Metal Slime|Metal Slime|Metal Slime
+tyrannosaurus wrecks|Hyperanemon|kap
+tyrannosaurus wrecks|Hyperanemon|Taurus
+Dragonlord|Demon at arms|Great Dragon
+Wildcard|Greatgodbird|Wulfspadeace
+Greatgodbird|Dragovianlord|Empyrea
+Xiphos|CaptainCrow|Nokturnus
+Nokturnus|Dhuran|DrSnapped
+Dhuran|Blizzybody|Flamethrower
+DrSnapped|Darkoniumslime|Murdaw
+Darkoniumslime|darkonium slime 1|darkonium slime 2
+darkonium slime 1|Beshemoth Slime|Beshemoth Slime
+darkonium slime 2|Metal King Slime|Metal King Slime
+Murdaw|Bjorn|Gamadius
+Murdaw|Bjorn|Nightclubber
+Nightclubber|boss troll|drakularge
+Nightclubber|boss troll|Frou-frou
+Nightclubber|boss troll|pazuzu
+boss troll|Diemon|Gorerilla
+boss troll|Gorerilla|Inopp
+boss troll|Gorerilla|Notsomacho
